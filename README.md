@@ -1,5 +1,5 @@
 <!--  [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://Imran6324.io)  -->
-<img align="center"  alt="Coding" width="1050" height="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="center"  alt="Coding" width="1050" height="370" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammad Imran Khan</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
