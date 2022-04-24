@@ -3,19 +3,21 @@
 <img align="center"  alt="Coding" width="1050" height="370" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
-<h3 align="center">A passionate Full Stack developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
 <img align="right"  alt="Coding" width="400" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran6324&label=Profile%20views&color=0e75b6&style=flat" alt="imran6324" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamma19306624" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma19306624?logo=twitter&style=for-the-badge" alt="mohamma19306624" /></a> </p>
 
+## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="32px"> About Me
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - ⚡ Fun fact **I play games and watch movies very often.**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
