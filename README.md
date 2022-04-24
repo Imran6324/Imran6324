@@ -52,13 +52,16 @@
 <!-- <p align="left"> <a href="https://twitter.com/mohamma19306624" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma19306624?logo=twitter&style=for-the-badge" alt="mohamma19306624" /></a> </p> -->
 <!-- <a href="https://github.com/Imran6324?tab=followers"><img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge"></a> -->
 <p align="left">
+ 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Imran6324">
+</a> 
+ 
+<a href="https://twitter.com/mohamma19306624" target="blank">
+  <img src="https://img.shields.io/twitter/follow/mohamma19306624?logo=twitter&style=for-the-badge" alt="mohamma19306624" /> 
 </a>
-<a href="https://twitter.com/mohamma19306624?tab=followers">
- <img src="https://img.shields.io/twitter/followers/mohamma19306624?label=Followers&style=social" alt="mohamma19306624">
-</a>
- <a href="https://github.com/Imran6324?tab=followers">
+ 
+<a href="https://github.com/Imran6324?tab=followers">
  <img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge">
 </a>
 </p>
