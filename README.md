@@ -55,8 +55,8 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Imran6324">
 </a>
-<a href="https://github.com/Imran6324?tab=followers">
- <img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://twitter.com/mohamma19306624?tab=followers">
+ <img src="https://img.shields.io/twitter/followers/mohamma19306624?label=Followers&style=social" alt="mohamma19306624">
 </a>
  <a href="https://github.com/Imran6324?tab=followers">
  <img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge">
