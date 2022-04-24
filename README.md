@@ -50,6 +50,17 @@
  <p align="center">
   <a  href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imran6324&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a></p>
  <br/>
+ 
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+<p align="center">
+  <img  src="https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" style="float:center" width="60px">
+</p>
+
+<br/>
+<a href="https://github.com/Imran6324/github-readme-activity-graph"><img alt="Mohd Imrans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Imran6324&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</br>
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,9 +73,7 @@
 </p>
 </br>
 
-<a href="https://github.com/Imran6324/github-readme-activity-graph"><img alt="Mohd Imrans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Imran6324&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</br>
-</br>
+
 
 
 
