@@ -45,9 +45,7 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran6324&" alt="imran6324" /></p>
 
-## ❤ Views and Followers
-
-<img align="right"  alt="Coding" width="400" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## ❤ Views and Followers 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran6324&label=Profile%20views&color=0e75b6&style=flat" alt="imran6324" /> </p>
 
