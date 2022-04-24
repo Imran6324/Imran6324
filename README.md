@@ -58,11 +58,15 @@
 </a> 
  
 <a href="https://twitter.com/mohamma19306624" target="blank">
-  <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=social" alt="mohamma19306624" /> 
+  <img src="https://img.shields.io/twitter/follow/mohamma19306624?logo=twitter&style=social" alt="mohamma19306624" /> 
 </a>
  
 <a href="https://github.com/Imran6324?tab=followers">
  <img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge">
+</a>
+ 
+ <a href="https://instagram.com/i_.m_.r_.a_.n_/" target="blank">
+  <img src="https://img.shields.io/instagram/follow/i_.m_.r_.a_.n_?logo=instagram&style=social" alt="i_.m_.r_.a_.n_" /> 
 </a>
 </p>
 
