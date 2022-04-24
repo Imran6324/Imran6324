@@ -28,6 +28,29 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 </br>
 
+
+<p align="center"> 
+    <a href="https://github.com/Imran6324/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohammad Imran Khan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Imran6324&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+</br>
+
+## 📊 My Github Stats
+</br>
+<!-- <p align="center"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran6324&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="imran6324" />
+</p> -->
+<!-- <p align="center"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran6324&show_icons=true&locale=en&layout=compact" alt="imran6324" />
+</p>   -->
+
+<p align="center">
+  <a href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran6324&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <p align="center">
+  <a  href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imran6324&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohamma19306624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma19306624" height="30" width="40" /></a>
@@ -44,13 +67,7 @@
 </br>
 
 
- 
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran6324&show_icons=true&locale=en&layout=compact" alt="imran6324" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran6324&show_icons=true&locale=en" alt="imran6324" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran6324&" alt="imran6324" /></p>
+
 
 ## ❤ Views and Followers 
 
