@@ -46,9 +46,9 @@
 </p>   -->
 
 <p align="center">
-  <a href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran6324&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <a href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran6324&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a></p>
  <p align="center">
-  <a  href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imran6324&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <a  href="https://github.com/Imran6324/github-readme-stats"><img alt="Mohammad Imran Khan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imran6324&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a></p>
  <br/>
 
 <h3 align="left">Connect with me:</h3>
