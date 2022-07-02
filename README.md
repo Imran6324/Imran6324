@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma19306624" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma19306624?logo=twitter&style=for-the-badge" alt="mohamma19306624" /></a> </p> -->
 
-## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="45px" height="45px""> About Me
+## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="45px" height="45px"> About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
