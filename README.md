@@ -96,6 +96,10 @@
 <a href="https://github.com/Imran6324?tab=followers">
  <img src="https://img.shields.io/github/followers/Imran6324?label=Followers&style=social" alt="GitHub Badge">
 </a>
+<!--     
+<a href="https://linkedin.com/khan38imran=followers">
+ <img src="https://www.linkedin.com/in/khan38imran/" alt="Linkein Badge">
+</a> -->
  
 <!--  <a href="https://instagram.com/i_.m_.r_.a_.n_/" target="blank">
   <img src="https://img.shields.io/instagram/follow/i_.m_.r_.a_.n_?logo=instagram&style=social" alt="i_.m_.r_.a_.n_" /> 
