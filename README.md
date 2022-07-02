@@ -1,5 +1,5 @@
 <!--  [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://Imran6324.io)  -->
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="300px">, I'm Mohammad Imran Khan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Mohammad Imran Khan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
 <img align="center"  alt="Coding" width="1050" height="370" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
